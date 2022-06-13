@@ -25,7 +25,7 @@ else:
         repeat()
 
     else:
-         if(answer =="R" and random_answer=="S"): # Rock beats Scissors
+         if(answer =="R" and random_answer=="S"): #rock beats Scissors
             
             print("Player Wins {} : CPU {}".format(answer,random_answer))
          elif(answer =="S" and random_answer=="R"):#rock beats Scissors
