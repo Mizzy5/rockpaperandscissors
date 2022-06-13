@@ -38,3 +38,6 @@ else:
              print("Player Wins {} : CPU  {}".format(answer,random_answer)) 
          elif(answer =="R" and random_answer=="S"):
              print("Player  {} : CPU  wins {}".format(answer,random_answer))
+
+
+
